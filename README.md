@@ -3,19 +3,21 @@
 
 # Project 1 : [Extraction of Amazon Reviews](https://ansu-dipin.github.io/project1reviews/)
 
-[Extract the Amazon reviews for a particular product (github link)](https://github.com/ANSU-DIPIN/project1reviews)
+github link : [Extract the Amazon reviews for a particular product](https://github.com/ANSU-DIPIN/project1reviews)
 
 ![](/Images/amazon_image.png)
 
 # Project 2 : [NLP on Emails](https://ansu-dipin.github.io/project2emails/)
 
-[Predict whether and email is non abusive or not (github link)](https://github.com/ANSU-DIPIN/project2emails)
+github link : [Predict whether and email is non abusive or not](https://github.com/ANSU-DIPIN/project2emails)
 
 ![](/Images/emails_image.png)
 
 # Project 3 : [Impact of Recession on Retail Sector](https://ansu-dipin.github.io/project3customer/)
 
-[Predict who is likely to shop next month (github link)](https://github.com/ANSU-DIPIN/project3customer)
+github link : [Predict who is likely to shop next month](https://github.com/ANSU-DIPIN/project3customer)
+
+Heroku App :  [Customer Purchase Prediction](https://customerpurchaseprediction.herokuapp.com/)
 
 ![](/Images/shopping_image.png)
 
