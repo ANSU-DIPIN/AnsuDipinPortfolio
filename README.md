@@ -5,7 +5,7 @@
 
 [Extract the Amazon reviews for a particular product (github link)](https://github.com/ANSU-DIPIN/project1reviews)
 
-![](/Images/amazon_image.png?raw=true)
+![](/Images/amazon_image.png)
 
 [# Project 2 : NLP on Emails](https://ansu-dipin.github.io/project2emails/)
 
