@@ -16,3 +16,6 @@
 [# Project 3 : Impact of Recession on Retail Sector](https://ansu-dipin.github.io/project3customer/)
 
 [Predict who is likely to shop next month (github link)](https://github.com/ANSU-DIPIN/project3customer)
+
+![](/Images/shopping_image.png)
+
