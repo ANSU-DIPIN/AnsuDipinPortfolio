@@ -32,3 +32,9 @@ github link : [A chatbot which answers data science questions](https://github.co
 github link : [To get the email template based on the keyword given by the user](https://github.com/ANSU-DIPIN/project3customer)
 
 ![](/Images/email-templates-header.png)
+
+# Project 6 : [Forecast Gold Prices](https://ansu-dipin.github.io/project3customer/)
+
+github link : [Forecast gold prices for the next 30 days](https://github.com/ANSU-DIPIN/project3customer)
+
+![](/Images/email-templates-header.png)
