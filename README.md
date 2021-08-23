@@ -37,4 +37,4 @@ github link : [To get the email template based on the keyword given by the user]
 
 github link : [Forecast gold prices for the next 30 days](https://github.com/ANSU-DIPIN/project3customer)
 
-![](/Images/email-templates-header.png)
+![](/Images/gold-rate-today-gold-silver-gain-as-demand-rises-on-flare-up-in-mid-east-tensions.jpg)
