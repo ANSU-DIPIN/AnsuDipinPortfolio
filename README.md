@@ -31,4 +31,4 @@ github link : [A chatbot which answers data science questions](https://github.co
 
 github link : [To get the email template based on the keyword given by the user](https://github.com/ANSU-DIPIN/project3customer)
 
-![](/Images/images.png)
+![](/Images/email-templates-header.png)
