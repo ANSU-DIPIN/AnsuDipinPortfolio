@@ -21,9 +21,9 @@ Heroku App :  [Customer Purchase Prediction](https://customerpurchaseprediction.
 
 ![](/Images/shopping_image.png)
 
-# Project 4 : [Chatbot](https://ansu-dipin.github.io/project3customer/)
+# Project 4 : [Chatbot](https://github.com/ANSU-DIPIN/project4chatbot)
 
-github link : [A chatbot which answers data science questions](https://github.com/ANSU-DIPIN/project3customer)
+github link : [A chatbot which answers data science questions](https://github.com/ANSU-DIPIN/project4chatbot)
 
 ![](/Images/images.png)
 
