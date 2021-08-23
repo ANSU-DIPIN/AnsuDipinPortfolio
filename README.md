@@ -26,3 +26,9 @@ Heroku App :  [Customer Purchase Prediction](https://customerpurchaseprediction.
 github link : [A chatbot which answers data science questions](https://github.com/ANSU-DIPIN/project3customer)
 
 ![](/Images/images.png)
+
+# Project 5 : [Email Templates](https://ansu-dipin.github.io/project3customer/)
+
+github link : [To get the email template based on the keyword given by the user](https://github.com/ANSU-DIPIN/project3customer)
+
+![](/Images/images.png)
