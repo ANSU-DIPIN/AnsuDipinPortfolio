@@ -25,4 +25,4 @@ Heroku App :  [Customer Purchase Prediction](https://customerpurchaseprediction.
 
 github link : [A chatbot which answers data science questions](https://github.com/ANSU-DIPIN/project3customer)
 
-![](/Images/shopping_image.png)
+![](/Images/images.png)
